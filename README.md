@@ -7,3 +7,6 @@ After the report has been approved by a government employee (back-end dashboard)
 Addition of SMS reporting is also possible and planned.
 
 NoKunda is an opensource app built on the opensource Ushahidi Platform.
+
+Android APK: http://s3.amazonaws.com/challengepost/zip_files/production/10788/zip_files/NoKunda.apk?1391324199
+Web Link: http://nokunda.labandroid.com
